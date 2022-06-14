@@ -1,0 +1,71 @@
+ /* **************************************************
+    RESPONSIVE-CUSTOM-CSS 10 May 2022
+ ************************************************** */
+@media only screen and (max-width: 991px) {
+    .img-dashboard.wow.animate__fadeInUp {
+        margin-bottom: 0;
+    }
+    .mobile-widget {
+        padding: 0 0 30px !important;
+    }
+    .mobile-screen {
+        justify-content: space-evenly !important;
+    }
+    .my-4.wow.animate__fadeInLeft {
+        display: flex;
+    }
+    .btn {
+        font-size: 10px;
+    }
+    .animate__fadeInLeft .btn i {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .navbar-nav a.btn.btn-light.ms-2.me-1 {
+        margin-bottom: 10px !important;
+    }
+}
+@media only screen and (max-width: 575px) {
+    header, section {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .feature .theme-avtar {
+        width: 90px;
+        height: 90px;
+    }
+    .feature .theme-avtar .ti {
+        font-size: 30px;
+    }
+    .footer .text-end {
+        text-align: start !important;
+        padding-top: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 330px)
+{
+    header, section {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .feature-mobile-screen {
+        display: flex;
+        justify-content: space-between;
+    }
+    .img-dashboard.wow.animate__fadeInUp {
+        margin-bottom: 0;
+    }
+    body.theme-3 .progress-bar:not([class*="bg-"]), body.theme-3 .btn-primary {
+        font-size: 11px;
+    }
+    body.theme-3 .btn-outline-primary {
+        font-size: 11px;
+    }
+}
+
+.navbar.default.top-nav-collapse{
+    background: rgba(28, 35, 47, 0.9);
+}

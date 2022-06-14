@@ -1,0 +1,4 @@
+ProductCoupon Id,Name,Code,Enable_Flat,Coupan Discount,Flat Discount,Limit,Description,Store Name,Created_by,Created_at,updated_at
+1,50 % Discount,0OG5BYAFGO,off,50,,15,,My Whatsstore,Rajodiya Infotech,2021-05-11T10:28:22.000000Z,2021-05-11T10:28:22.000000Z
+2,Flat 100,NR0CPU7SAO,on,,100,15,,My Whatsstore,Rajodiya Infotech,2021-05-11T10:28:40.000000Z,2021-05-11T10:28:40.000000Z
+3,Flat 150,NR0CPU7SAO,off,,100,18,dsefvdefv,My Whatsstore,Rajodiya Infotech,2021-12-14T06:56:28.000000Z,2021-12-14T06:56:28.000000Z

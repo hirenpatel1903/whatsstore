@@ -1,0 +1,108 @@
+/* custom css */
+
+.product-detail .price-spin{
+    font-size: 14px;
+}
+
+/* custom css */
+
+
+/* responsive */
+
+@media only screen and (max-width: 1399px){
+    .item-spin {
+        margin: 15px auto 15px !important;
+    }
+    .item-spin {
+        width: 0px !important;
+    }
+    .collection-title .qty-item{
+        margin: 0px 0px 0px 10px;
+    }
+    .telegram-card .telegram-btn{
+        font-size: 10px;
+    }
+    .whatsapp-card .whatsap-btn{
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .card-body {
+        padding-bottom: 10px;
+    }
+    .btn {
+        padding: 0.65rem 0.85rem;
+        font-size: 0.9rem;
+    }
+    .product-image img{
+        height: 199px;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .btn {
+        padding: 0.85rem 0.45rem;
+        font-size: 0.6rem;
+    }
+    .product-image img{
+        height: 199px;
+    }
+}
+@media only screen and (max-width: 991px){
+    .search-input{
+        margin-left: 0px;
+    }
+    .nav-icon {
+        left: 250px;
+        top: 63px;
+    }
+    .dropdown-menu.show {
+        left: auto !important;
+        right: 0 !important;
+        transform: translate3d(10px, 30px, 10px) !important;
+    }
+}
+@media only screen and (max-width: 767px){
+    .text-store{
+        display: inline-block;
+    }
+
+}
+@media only screen and (max-width: 640px){
+    .nav-logo{
+        display: none;
+    }
+    .nav-icon{
+        top: 47px;
+        left: 270px;
+    }
+    .search-bar{
+        justify-content: end;
+    }
+    .justify-content-between{
+        justify-content: end !important;
+    }
+    .search-input input{
+        margin-right: 60px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .search-bar {
+        margin-top: 60px;
+    }
+    .nav-icon {
+        top: 45px;
+        left: 250px;
+    }
+    .dropdown-menu.show{
+        transform: translate3d(70px, 30px, 10px) !important;
+    }
+    .content-body{
+        margin-top: 0;
+    }
+}
+@media only screen and (max-width: 320px){
+
+}
+@media only screen and (max-width: 240px){
+
+}
