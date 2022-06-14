@@ -400,7 +400,7 @@ Route::get(
     'get-products-variant-quantity', [
                                        'as' => 'get.products.variant.quantity',
                                        'uses' => 'ProductController@getProductsVariantQuantity',
-      
+
                                    ]
 );
 Route::get(

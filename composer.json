@@ -32,6 +32,7 @@
         "simplesoftwareio/simple-qrcode": "^4.2",
         "spatie/laravel-permission": "^3.13",
         "stripe/stripe-php": "^7.36",
+        "symfony/http-foundation": "^5.4",
         "twilio/sdk": "^6.35"
     },
     "require-dev": {
